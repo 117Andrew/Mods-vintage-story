@@ -1,0 +1,51 @@
+[
+    {
+        "ingredientPattern": "PK,T_",
+        "ingredients": {
+            "T": { "type": "item", "code": "game:flaxtwine", "quantity": 2 } ,
+            "K": { "type": "item", "code": "game:knife-*", "isTool": true },
+            "P": { "type": "item", "code": "game:hide-pelt-*", "tags": ["size-small"], "quantity" : 3 }
+        },
+        "width": 2,
+        "height": 2,
+        "output": { "type": "item", "code": "game:clothes-waist-sturdy-belt", "quantity": 1}
+    },
+    {
+        "ingredientPattern": "PK,T_",
+        "ingredients": {
+            "T": { "type": "item", "code": "game:flaxtwine", "quantity": 2 } ,
+            "K": { "type": "item", "code": "game:knife-*", "isTool": true },
+            "P": { "type": "item", "code": "game:hide-pelt-*", "tags": ["size-medium"], "quantity" : 2 }
+        },
+        "width": 2,
+        "height": 2,
+        "output": { "type": "item", "code": "game:clothes-waist-sturdy-belt", "quantity": 1}
+    },
+    {
+        "ingredientPattern": "PK,T_",
+        "ingredients": {
+            "T": { "type": "item", "code": "game:flaxtwine", "quantity": 2 } ,
+            "K": { "type": "item", "code": "game:knife-*", "isTool": true },
+            "P": { "type": "item", "code": "game:hide-pelt-*", "tags": ["size-large"], "quantity" : 1 }
+        },
+        "width": 2,
+        "height": 2,
+        "output": { "type": "item", "code": "game:clothes-waist-sturdy-belt", "quantity": 1}
+    },
+
+        {
+        "ingredientPattern": "LK,TM",
+        "ingredients": {
+            "T": { "type": "item", "code": "game:flaxtwine", "quantity": 2 } ,
+            "K": { "type": "item", "code": "game:knife-*", "isTool": true },
+            "L": { "type": "item", "code": "game:leather-normal-plain", "quantity" : 2 },
+            "M": { "type": "item", "code": "game:metalnailsandstrips-{metal}", "quantity" : 1 }
+        },
+        "allowedVariants": {
+		"metal": ["blackbronze", "tinbronze", "bismuthbronze", "iron", "silver", "gold", "meteoriciron", "steel", "electrum" ]
+	    },
+        "width": 2,
+        "height": 2,
+        "output": { "type": "item", "code": "game:clothes-waist-heavy-tool-belt", "quantity": 1}
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "type": "content",
+    "modid": "stickmaking",
+    "name": "Stick making",
+    "authors": [
+      "Krumitz"
+    ],
+    "description": "Add a few ways to craft sticks from firewood and planks",
+    "version": "1.0.0"
+}

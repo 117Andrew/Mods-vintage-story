@@ -1,0 +1,10 @@
+{
+    "type": "content",
+    "modid": "beltmaking",
+    "name": "Belt Making",
+    "authors": [
+        "Krumitz"
+    ],
+    "description": "Add ways to craft the sturdy belt and the heavy tool belt, mainly to be used with Salty's Tool Belt mod",
+    "version": "1.0.0"
+}
