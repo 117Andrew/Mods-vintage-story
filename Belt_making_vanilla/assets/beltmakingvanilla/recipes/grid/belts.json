@@ -33,7 +33,7 @@
         "output": { "type": "item", "code": "game:clothes-waist-sturdy-belt", "quantity": 1}
     },
 
-        {
+    {
         "ingredientPattern": "LK,TM",
         "ingredients": {
             "T": { "type": "item", "code": "game:flaxtwine", "quantity": 2 } ,
